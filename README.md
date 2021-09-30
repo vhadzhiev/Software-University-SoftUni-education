@@ -6,6 +6,6 @@ This is a repository in which I will be posting problems from the SoftUni Python
 # My-Certificates
 Every certificate is issued after successfully taken practical exam (with duration of 4 hours). The student should achieve score 5 and above (max score is 6) to receive certificate.
 
-[- Programming Basics with Python - January 2021](https://softuni.bg/certificates/details/110918/722b529e)
+[- Programming Basics with Python - January 2021](https://softuni.bg/certificates/details/100380/88622963)
 
 [- Programming Fundamentals with Python - May 2021](https://softuni.bg/certificates/details/110918/722b529e)
