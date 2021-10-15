@@ -1,22 +1,13 @@
-def stock_availability(*args):
-    arguments = [*args]
-    inventory = arguments[0]
-    action = arguments[1]
+def stock_availability(inventory, action, *args):
     if action == 'delivery':
-        for x in arguments[2:]:
-            inventory.append(x)
+        inventory += [*args]
     else:
-        if len(arguments) == 2:
+        if not args:
             inventory.pop(0)
-        elif type(arguments[2]) == int:
-            for i in range(arguments[2]):
-                if inventory:
-                    inventory.pop(0)
+        elif type(args[0]) == int:
+            inventory = inventory[args[0]:]
         else:
-            for x in arguments[2:]:
-                if x in inventory:
-                    while x in inventory:
-                        inventory.remove(x)
+            inventory = [x for x in inventory if x not in [*args]]
 
     return inventory
 
