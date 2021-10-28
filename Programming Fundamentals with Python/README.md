@@ -17,3 +17,7 @@ The course also examines the basics of web development, which builds in the stud
 •	Understanding the relationship between different IT concepts;
 
 •	Working with linear data structure.
+
+## Certificate
+
+![](https://github.com/vhadzhiev/Software-University-SoftUni-education/blob/main/Programming%20Fundamentals%20with%20Python%20-%20May%202021%20-%20Certificate.jpeg)
