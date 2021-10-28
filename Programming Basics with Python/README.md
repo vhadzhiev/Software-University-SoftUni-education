@@ -17,3 +17,6 @@ and loops (for and while). The course ends with a practical programming exam, wh
 •	Working with loops (for);
 
 •	Working with complex loops (nested for and while loops).
+
+## Certificate
+![](https://github.com/vhadzhiev/Software-University-SoftUni-education/blob/main/Programming%20Basics%20-%20January%202021%20-%20Certificate.jpeg)
