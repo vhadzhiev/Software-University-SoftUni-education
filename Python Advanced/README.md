@@ -14,3 +14,7 @@ The course "Python Advanced" builds on Python language skills by addressing more
 •	Working with data streams, files and directories;
 
 •	Error handling.
+
+## Certificate
+
+![](https://github.com/vhadzhiev/Software-University-SoftUni-education/blob/main/Python%20Advanced%20-%20September%202021%20-%20Certificate.jpeg)
