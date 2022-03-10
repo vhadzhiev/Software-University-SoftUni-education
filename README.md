@@ -12,4 +12,6 @@ Every certificate is issued after successfully taken practical exam (with durati
 
 [- Python Advanced - September 2021](https://softuni.bg/certificates/details/114234/d70ad8d5)
 
-[- Python Advanced - October 2021](https://softuni.bg/certificates/details/120703/04831a42)
+[- Python OOP - October 2021](https://softuni.bg/certificates/details/120703/04831a42)
+
+[- Python Web Basics - January 2022](https://softuni.bg/certificates/details/127756/bc3602ed)
