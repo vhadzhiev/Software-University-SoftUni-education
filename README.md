@@ -17,3 +17,5 @@ Every certificate is issued after successfully taken practical exam (with durati
 [- Python Web Basics - January 2022](https://softuni.bg/certificates/details/127756/bc3602ed)
 
 [- Python Web Framework - March 2022](https://softuni.bg/certificates/details/133136/ba2eb4c7)
+
+[- JS Advanced - September 2022](https://softuni.bg/certificates/details/150165/5c27c4e9)
